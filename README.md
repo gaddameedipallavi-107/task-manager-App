@@ -11,19 +11,14 @@ A full-stack Task Management Web Application built using React, Node.js, Express
 - View Tasks
 - Task Status (Pending / In Progress / Completed)
 
----
 
 ## 🛠️ Tech Stack
 Frontend: React.js  
 Backend: Node.js, Express.js  
 Database: MySQL  
 
----
 
-## 📸 Screenshots
-(Add your screenshots here)
 
----
 
 ##  How to Run
 
